@@ -6,8 +6,8 @@ Chatbot immobilier pour le marché d'Abidjan, Côte d'Ivoire.
 
 ```bash
 # Cloner le projet
-git clone <repo-url>
-cd immo-chatbot
+git clone https://github.com/Friiyous/Immo-chatbot.git
+cd Immo-chatbot
 
 # Installer les dépendances
 pip install -r requirements.txt
