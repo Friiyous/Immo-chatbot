@@ -1,0 +1,5 @@
+# Immo-Expert - Chatbot Immobilier Abidjan
+# Dépendances Python
+
+flask>=2.3.0
+groq>=0.4.0
